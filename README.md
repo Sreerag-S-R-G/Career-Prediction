@@ -35,16 +35,7 @@ Random Forest (Final Model)	87%
 
 Random Forest was selected due to its higher accuracy, reduced overfitting, and better generalization performance.
 
-🗂️ Project Structure
-CareerPredictionproject/
-│
-├── app.py                     # Streamlit application
-├── train_and_save_model.py    # Model training and saving script
-├── career_rf_pipeline.pkl     # Trained ML pipeline (generated)
-├── requirements.txt           # Project dependencies
-├── data/
-│   └── mldata.csv             # Dataset
-└── README.md                  # Project documentation
+
 
 ⚙️ Technologies Used
 
@@ -82,8 +73,8 @@ Pipeline: Ensures identical preprocessing during training and prediction
 
 ▶️ How to Run the Project
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/career-prediction-system.git
-cd career-prediction-system
+git clone https://github.com/Sreerag-S-R-G/Career-Prediction.git
+cd Career-Prediction
 
 2️⃣ Install Dependencies
 pip install -r requirements.txt
